@@ -1,0 +1,672 @@
+﻿Food Group Code,Food Group and Sub-Group Name
+11,Non-alcoholic beverages
+111,Tea
+11101,"Tea, regular, caffeinated, prepared with water"
+11102,"Tea, regular, caffeinated, prepared with milk or milk substitute"
+11103,"Tea, regular, decaffeinated, prepared with water or milk"
+11104,Tea mixed with other foods
+11105,Herbal tea
+11106,Tea powders and bases
+112,Coffee and coffee substitutes
+11201,"Coffee beverage, prepared with water"
+11202,"Coffee beverage, prepared with milk or milk substitute"
+11203,"Coffee beverage, decaffeinated, prepared with water"
+11204,"Coffee beverage, decaffeinated, prepared with milk or milk substitute"
+11205,"Dry coffee powder, caffeinated or decaffeinated"
+11206,"Coffee substitutes, beverage"
+11207,"Coffee substitutes, powders and bases"
+11208,"Coffee-based mixes, beverage "
+11209,Dry or concentrate coffee-based mixes
+113,"Fruit and vegetable juices, and drinks "
+11301,"Fruit juices, commercially prepared"
+11302,"Fruit juices, freshly-squeezed"
+11303,"Fruit juices, fortified"
+11304,Vegetable juices
+11305,"Vegetable juices, freshly squeezed"
+11306,Fruit and vegetable juice blends
+11307,Fruit drinks (ready to drink or made from concentrate)
+11308,Vegetable drinks
+11309,"Fruit drink, prepared from dry powder"
+114,Cordials
+11401,"Cordials, made from concentrate"
+11402,"Cordials, made from concentrate, intense sweetened"
+11403,Cordial concentrate
+11404,"Cordial concentrate, intense sweetened "
+115,"Soft drinks, and flavoured mineral waters"
+11501,"Soft drinks, non-cola "
+11502,"Soft drinks, non-cola, intense sweetened "
+11503,"Soft drinks, cola"
+11504,"Soft drinks, cola, intense sweetened"
+11505,Flavoured mineral waters
+11506,"Flavoured mineral waters, intense sweetened"
+116,"Electrolyte, energy and fortified drinks"
+11601,Electrolyte drinks (sports drinks)
+11602,Electrolyte drink bases (sport drink bases)
+11603,Energy drinks
+11604,"Energy drinks, intense sweetened"
+117,"Waters, municipal and bottled, unflavoured"
+11701,"Domestic water (including tap, tank/rain water)"
+11702,Purchased packaged water including mineral water
+11703,"Purchased packaged water, fortified "
+118,Other beverage flavourings and prepared beverages
+11801,Fortified beverage flavourings prepared with water or milk
+11802,Fortified dry beverage flavourings
+11803,Unfortified beverage flavourings prepared with water or milk
+11804,Unfortified dry beverage flavourings
+11805,Breakfast cereal beverages
+11806,Other beverages
+12,Cereals and cereal products
+121,Flours and other cereal grains and starches
+12101,Grains (other than rice) and grain fractions
+12102,Rice and rice grain fractions
+12103,Cereal flours and starches
+12104,"Cereal flours and starches, fortified"
+122,"Regular breads, and bread rolls (plain/unfilled/untopped varieties) "
+12201,"Breads, and bread rolls, white, mandatorily fortified"
+12202,"Breads, and bread rolls, white, additional voluntary fortification"
+12203,"Breads, and bread rolls, white, not stated as to fortification"
+12204,"Breads, and bread rolls, mixed grain, mandatorily fortified "
+12205,"Breads, and bread rolls, mixed grain, additional voluntary fortification"
+12206,"Breads, and bread rolls, mixed grain, not stated as to fortification"
+12207,"Breads, and bread rolls, wholemeal and brown, mandatorily fortified "
+12208,"Breads, and bread rolls, wholemeal and brown, additional voluntary fortification"
+12209,"Breads, and bread rolls, wholemeal, not stated as to fortification"
+12210,"Breads, and bread rolls, rye, mandatorily fortified "
+12211,"Breads, and bread rolls, rye, additional voluntary fortification"
+12212,"Breads, and bread rolls, rye, not stated as to fortification"
+12213,"Breads, and bread rolls, gluten free"
+12214,"Breads, and bread rolls, not stated as to major flour or fortification"
+123,"English-style muffins, flat breads, and savoury and sweet breads "
+12301,English-style muffins
+12302,"Flat breads (e.g. Pita bread), wheat based"
+12303,"Flat breads (e.g. Pita bread), other cereal flours"
+12304,Savoury filled or topped breads and bread rolls
+12305,"Sweet breads, buns and scrolls, uniced, unfilled"
+12306,"Sweet breads, buns and scrolls, iced and/or filled"
+12307,Fried bread products and garlic breads
+124,Pasta and pasta products (without sauce)
+12401,"Pasta and noodles, wheat based, other than instant noodles"
+12402,"Instant noodles and noodle products, wheat based"
+12403,"Pasta and noodles, not wheat based"
+12404,Filled pasta
+125,"Breakfast cereals, ready to eat"
+12501,"Breakfast cereal, corn based"
+12502,"Breakfast cereal, corn based, fortified"
+12503,"Breakfast cereal, rice based"
+12504,"Breakfast cereal, rice based, fortified"
+12505,"Breakfast cereal, wheat based"
+12506,"Breakfast cereal, wheat based, fortified, sugars ≤20 g/100g"
+12507,"Breakfast cereal, wheat based, fortified, sugars >20 g/100g"
+12508,"Breakfast cereal, wheat based, with fruit and/or nuts, unfortified "
+12509,"Breakfast cereal, wheat based, with fruit and/or nuts, fortified, sugars ≤25 g/100g"
+12510,"Breakfast cereal, wheat based, with fruit and/or nuts, fortified, sugars >25 g/100g"
+12511,"Breakfast cereal, mixed grain"
+12512,"Breakfast cereal, mixed grain, fortified, sugars ≤20 g/100g"
+12513,"Breakfast cereal, mixed grain, fortified, sugars >20 g/100g"
+12514,"Breakfast cereal, mixed grain, with fruit and/or nuts"
+12515,"Breakfast cereal, mixed grain, with fruit and/or nuts, fortified "
+12516,"Breakfast cereal, other "
+126,"Breakfast cereals, hot porridge style"
+12601,"Porridge style, oat based"
+12602,"Porridge style, other cereals"
+13,Cereal based products and dishes
+131,Sweet biscuits
+13101,"Sweet biscuits, plain or flavoured including short bread varieties"
+13102,"Sweet biscuits, plain with fruit or nuts "
+13103,"Sweet biscuits, with jam, marshmallow or other sugar-based filling"
+13104,"Sweet biscuits, cream-filled "
+13105,"Sweet biscuits, chocolate-coated, chocolate chip "
+13106,"Sweet biscuits, chocolate-coated, chocolate or cream filled"
+13107,"Sweet biscuits, other toppings"
+132,Savoury biscuits
+13201,"Savoury biscuits, wheat based, plain, energy ≤1800 kJ per 100 g"
+13202,"Savoury biscuits, wheat based, plain, energy >1800 kJ per 100 g"
+13203,"Savoury biscuits, rye based "
+13204,"Savoury biscuits, rice based (includes rice cakes)"
+13205,"Savoury biscuits, corn based"
+133,"Cakes, muffins, scones, cake-type desserts "
+13301,"Cakes and cake mixes, chocolate"
+13302,"Cakes and cake mixes, sponge"
+13303,"Cakes and cake mixes, other types"
+13304,"Muffins, cake type, and muffin mixes "
+13305,Cake-type desserts
+13306,"Slices, biscuit and cake-type "
+13307,"Scones and rock cakes, plain or with added fruit or vegetables only"
+13308,"Scones and rock cakes, with added cheese, chocolate or similar"
+13309,Other desserts containing cereal
+134,Pastries
+13401,"Pastry, plain/unfilled, all types "
+13402,"Sweet pastry products, fruit and/or nut fillings"
+13403,"Sweet pastry products, egg or dairy based fillings"
+13404,"Savoury pastry products, quiches and flans "
+13405,"Savoury pastry products, pies, rolls and envelopes"
+13406,"Savoury pastry products, pies, rolls and envelopes, fried"
+135,Mixed dishes where cereal is the major ingredient
+13501,"Pizza, saturated fat ≤5 g/100 g"
+13502,"Pizza, saturated fat >5 g/100 g"
+13503,"Sandwiches and filled rolls, saturated fat ≤5 g/100 g"
+13504,"Sandwiches and filled rolls, saturated fat >5 g/100 g"
+13505,"Burgers, saturated fat ≤5 g/100 g"
+13506,"Burgers, saturated fat >5 g/100 g"
+13507,"Taco and tortilla-based dishes, saturated fat ≤5 g/100 g"
+13508,"Taco and tortilla-based dishes, saturated fat >5 g/100 g"
+13509,"Savoury pasta/noodle and sauce dishes, saturated fat ≤5 g/100 g"
+13510,"Savoury pasta/noodle and sauce dishes, saturated fat >5 g/100 g"
+13511,"Savoury rice-based dishes, saturated fat ≤5 g/100 g"
+13512,"Savoury rice-based dishes, saturated fat >5 g/100 g"
+13513,Savoury dumplings
+13514,"Sushi, all types"
+13515,Other savoury grain dishes
+136,Batter-based products
+13601,"Pancakes, crepes and dishes "
+13602,"Drop scones, pikelets "
+13603,Waffles
+13604,Batters and batter puddings
+13605,Doughnuts
+13606,Crumpets
+14,Fats and oils
+141,Butters
+14101,Butter
+14102,Butter products
+142,Dairy blends
+14201,"Dairy blend, regular, fat content ≥ 65g/100g"
+14202,"Dairy blend, reduced fat, fat content <65 g/100g"
+14203,"Dairy fats, unspecified type"
+143,Margarine and table spreads
+14301,"Polyunsaturated margarine spreads, fat content ≥ 65g/100g"
+14302,"Polyunsaturated margarine spreads, fat content <65 g/100g"
+14303,"Monounsaturated margarine spreads, fat content ≥65 g/100g"
+14304,"Monounsaturated margarine spreads,fat content <65 g/100g"
+14305,Cooking margarine
+14306,Margarine spreads with added phytosterols
+14307,Unspecified margarine spread
+144,Plant oils
+14401,Polyunsaturated oils
+14402,Monounsaturated oils
+14403,Unspecified vegetable/nut oils
+145,Other fats
+14501,Animal-based solid fats
+14502,Vegetable-based solid fats
+14503,Other fats or oils
+146,Unspecified fats
+14601,Unspecified dairy-based fat or margarine used as a spread
+14602,Unspecified fats or oil used in cooking
+15,Fish and seafood products and dishes
+151,Fin fish (excluding commercially sterile)
+15101,"Fin fish, fresh, frozen "
+15102,Smoked fish
+152,Crustacea and molluscs (excluding commercially sterile)
+15201,"Crustacea, fresh, frozen "
+15202,"Molluscs, fresh, frozen "
+153,Other sea and freshwater foods
+15301,Fish roe
+15302,Eel
+15303,Mixtures of finfish and/or shellfish
+154,Packed (commercially sterile) fish and seafood
+15401,Packed fin fish
+15402,Packed crustacea and molluscs
+155,Fish and seafood products (homemade and takeaway)
+15501,"Fin fish, battered or crumbed "
+15502,"Crustacea, battered or crumbed "
+15503,"Molluscs, battered or crumbed"
+15504,Fish and seafood products
+156,Mixed dishes with fish or seafood as the major component
+15601,Mixed dishes with fish as the major component
+15602,"Mixed dishes with fish as the major component, with rice, pasta or noodles"
+15603,"Mixed seafood dishes with crustacea, molluscs or other seafood products as the major component"
+15604,"Mixed seafood dishes with crustacea, molluscs or other seafood products as the major component, with rice, pasta or noodles"
+157,Wild caught fish and seafood (NATSINPAS)
+15701,Wild caught finfish
+15702,Wild caught crustacea and molluscs
+16,Fruit products and dishes
+161,Pome fruit
+16101,Apples
+16102,"Apples, commercially sterile"
+16103,Pears
+16104,"Pears, commercially sterile"
+16105,Other pome fruit
+162,Berry fruit
+16201,Berry fruit
+16202,"Berry fruit, commercially sterile"
+163,Citrus fruit
+16301,Oranges
+16302,Lemons and limes
+16303,Other citrus fruit
+16304,"Citrus fruit, commercially sterile"
+164,Stone fruit
+16401,Peaches and nectarines
+16402,"Peaches and nectarines, commercially sterile"
+16403,Other stone fruit
+16404,"Other stone fruit, commercially sterile"
+165,Tropical and subtropical fruit
+16501,Bananas
+16502,Pineapples
+16503,"Other tropical and subtropical fruit, edible peel"
+16504,"Other tropical and subtropical fruit, inedible peel"
+16505,"Tropical and subtropical fruit, commercially sterile"
+166,Other fruit
+16601,Other fruit
+167,Mixtures of two or more groups of fruit
+16701,Mixtures of two or more groups of fruit
+16702,"Mixtures of two or more groups of fruit, commercially sterile "
+168,"Dried fruit, preserved fruit "
+16801,Dried vine fruit
+16802,Other dried fruit including mixed dried fruit
+16803,Dried fruit and nut mixes
+16804,Preserved fruit
+169,Mixed dishes where fruit is the major component
+16901,Mixed dishes where fruit is the major component
+160,Wild harvested fruits (NATSINPAS)
+16001,Wild harvested fruits
+17,Egg products and dishes
+171,Eggs
+17101,"Eggs, chicken "
+17102,"Eggs, chicken, modified (e.g. Omega-3, folate)"
+17103,"Eggs, other "
+172,Dishes where egg is the major ingredient
+17201,"Egg dishes, savoury "
+17202,"Egg dishes, sweet "
+174,Wild harvested eggs (NATSINPAS)
+17401,Wild harvested eggs
+18,"Meat, poultry and game products and dishes "
+181,"Beef, sheep and pork, unprocessed"
+18101,Beef
+18102,Lamb and mutton
+18103,Pork
+18104,Veal
+182,Mammalian game meats
+18201,Kangaroo
+18202,Other mammalian game
+183,Poultry and feathered game
+18301,Chicken
+18302,Other poultry
+18303,Feathered game
+184,"Organ meats and offal, products and dishes "
+18401,Liver
+18402,Kidney
+18403,Other organ meats and offal
+18404,"Liver paste, pate and dishes"
+18405,"Other organ meat, blood and offal dishes "
+185,"Sausages, frankfurts and saveloys "
+18501,"Sausage, saturated fat content >5 g/100g"
+18502,"Frankfurts and saveloys, saturated fat content >5 g/100g"
+18503,"Sausages, frankfurts and saveloys, saturated fat content ≤5 g/100g"
+186,Processed meat
+18601,Bacon
+18602,Ham
+18603,"Fermented, comminuted meats (e.g. Salami)"
+18604,"Processed delicatessen meat, mammalian "
+18605,"Processed delicatessen meat, poultry"
+18606,"Processed meat, commercially sterile (includes canned meats)"
+18607,Dried meats
+187,"Mixed dishes where beef, sheep, pork or mammalian game is the major component"
+18701,"Beef dishes with gravy, sauce or vegetables "
+18702,"Beef dishes, added pasta, noodles or rice"
+18703,"Beef, crumbed, battered, meatloaf or patty type with cereal and/or vegetables"
+18704,"Veal, crumbed, battered, meatloaf or patty type with cereal and/or vegetables"
+18705,"Lamb or mutton dishes with gravy, sauce or vegetables "
+18706,"Lamb or mutton dishes, added pasta, noodles or rice"
+18707,"Lamb or mutton, crumbed, battered, meatloaf or patty type with cereal and/or vegetables"
+18708,"Pork dishes with gravy, sauce or vegetables"
+18709,"Pork dishes, added pasta, noodles or rice"
+18710,"Pork, crumbed, battered, meatloaf or patty type with cereal and/or vegetables"
+18711,"Mammalian game meat, mixed dishes"
+18712,"Unspecified meat, mixed dishes"
+188,"Mixed dishes where sausage, bacon, ham or other processed meat is the major component "
+18801,"Sausage dishes with gravy, sauce or vegetables"
+18802,"Sausage dishes with gravy, sauce or vegetables, added pasta, noodles or rice"
+18803,"Other processed meat, mixed dish"
+189,Mixed dishes where poultry or feathered game is the major component
+18901,"Poultry dishes, with gravy, sauce or vegetables "
+18902,"Poultry dishes, with gravy, sauce or vegetables, added pasta, noodles or rice"
+18903,"Poultry crumbed, battered, meatloaf or patty type with cereal and/or vegetables"
+180,"Wild harvested meat, and meat dishes (NATSINPAS)"
+18011,Wild harvested mammalian meat
+18012,"Wild harvested meat, mixed dishes"
+19,Milk products and dishes
+191,"Dairy milk (cow, sheep and goat)"
+19101,"Milk, cow, fluid, regular whole, full fat "
+19102,"Milk, cow, fluid, regular whole, full fat, fortified"
+19103,"Milk, cow, fluid, reduced fat, <2 g/100g "
+19104,"Milk, cow, fluid, reduced fat, <2 g/100g, fortified"
+19105,"Milk, cow, fluid, skim, non-fat "
+19106,"Milk, evaporated or condensed, undiluted "
+19107,"Milk, powder, cow, dry"
+19108,"Milk, non-bovine species "
+19109,"Milk, fluid, unspecified "
+192,Yoghurt
+19201,"Yoghurt, natural, regular fat and high fat (>4 g/100g fat)"
+19202,"Yoghurt, natural, reduced fat "
+19203,"Yoghurt, natural, skim and non-fat "
+19204,"Yoghurt, flavoured or added fruit and/or cereal, high fat (>4 g/100g fat)"
+19205,"Yoghurt, flavoured or added fruit, full fat "
+19206,"Yoghurt, flavoured or added fruit with added cereal, full fat"
+19207,"Yoghurt, flavoured or added fruit, reduced fat "
+19208,"Yoghurt, flavoured or added fruit, low fat or skim, sugar sweetened "
+19209,"Yoghurt, flavoured or added fruit, low fat or skim, intense sweetened "
+19210,"Yoghurt, drinks, buttermilk "
+19211,"Yoghurt, added nutrients or other substances"
+19212,"Yoghurt, unspecified fat"
+193,Cream
+19301,"Cream, regular and increased fat"
+19302,"Cream, reduced fat"
+19303,"Cream, sour "
+19304,"Cream, sour, reduced fat"
+19305,"Cream substitute, artificial cream "
+19306,"Cream, unspecified type or fat level"
+194,Cheese
+19401,"Cheese, hard cheese ripened styles"
+19402,"Cheese, hard cheese ripened styles, reduced fat"
+19403,"Cheese, unripened styles, including cream and cottage cheese, regular fat"
+19404,"Cheese, unripened styles, including cream and cottage cheese, reduced fat"
+19405,"Cheese, camembert, brie and other surface ripened cheeses"
+19406,"Cheese, processed "
+19407,"Cheese, processed, reduced fat "
+19408,"Cheese, not further defined"
+195,Frozen milk products
+19501,"Ice cream, tub varieties, fat content >10 g/100 g"
+19502,"Ice cream, tub varieties, fat content 4 - 10 g/100 g"
+19503,"Ice cream, tub varieties, fat content <4 g/100 g"
+19504,"Ice cream, individual bar, stick and cone varieties, fat content >10 g/100 g"
+19505,"Ice cream, individual bar, stick and cone varieties, fat content 4 - 10 g/100 g"
+19506,"Ice cream, individual bar, stick and cone varieties, fat content <4 g/100 g"
+19507,"Frozen yoghurts, all types"
+19508,"Frozen dairy desserts, other"
+196,Custards
+19601,"Custard, fat content ≥ 4 g/100 g"
+19602,"Custard, fat content <4 g/100 g"
+197,Other dishes where milk or a milk product is the major component
+19701,"Dairy desserts, smooth or gelatin-based dairy desserts "
+19702,"Other milk, cheese or cream-based desserts "
+198,Flavoured milks  and milkshakes
+19801,"Milk, coffee/chocolate flavoured and milk-based drinks, full fat "
+19802,"Milk, other flavoured and milk-based drinks, full fat "
+19803,"Milk, coffee/chocolate flavoured and milk-based drinks, reduced fat "
+19804,"Milk, other flavoured and milk-based drinks, reduced fat "
+19805,"Milk, other flavoured and milk-based drinks, not stated as to fat "
+19806,Milk-based fruit drinks
+20,Dairy & meat substitutes
+201,"Dairy milk substitutes, unflavoured"
+20101,"Soy-based beverage, plain"
+20102,"Soy-based beverage, plain, fortified"
+20103,"Soy-based beverage, plain, reduced fat"
+20104,"Soy-based beverage, plain, reduced fat, fortified"
+20105,"Soy-based beverage, plain, skim, fortified"
+20106,Cereal- or nut-based milk substitute
+20107,"Dairy milk substitute, unspecified"
+202,"Dairy milk substitutes, flavoured"
+20201,"Soy-based beverage, regular fat, flavoured"
+20202,"Soy-based beverage, reduced fat, flavoured"
+203,Cheese substitute
+20301,Cheese substitute
+204,Soy-based ice confection
+20401,Soy-based ice confection
+205,Soy-based yoghurts
+20501,"Soy-based yoghurts, regular fat"
+20502,"Soy-based yoghurts, reduced fat"
+206,Meat substitutes
+20601,Meat substitutes
+207,Dishes where meat substitutes are the major component
+20701,Dishes where meat substitutes are the major component
+21,Soup
+211,"Soup, homemade from basic ingredients"
+21101,"Soup containing meat, poultry or seafood"
+21102,"Soup, vegetable only"
+212,Dry soup mix
+21201,"Dry soup mix containing meat, poultry or seafood"
+21202,"Dry soup mix, vegetable only"
+213,"Soup, prepared from dry soup mix"
+21301,"Soup containing meat, poultry or seafood"
+21302,"Soup, vegetable only"
+214,Canned condensed soup (unprepared)
+21401,"Soup containing meat, poultry or seafood"
+21402,"Soup, vegetable only"
+215,"Soup, commercially sterile, prepared from condensed or sold ready to heat"
+21501,"Soup containing meat, poultry or seafood"
+21502,"Soup, vegetable only"
+216,"Soup, not commercially sterile, purchased ready to eat"
+21601,"Soup containing meat, poultry or seafood"
+21602,"Soup, vegetable only"
+22,Seed and nut products and dishes
+221,Seeds and seed products
+22101,Seeds
+22102,Seed products
+222,Nuts and nut products
+22201,Peanuts
+22202,Peanut products
+22203,Coconut and coconut products
+22204,Other nuts and nut products and dishes
+22205,Mixed nuts or nuts and seeds
+223,Wild harvested seeds and nuts (NATSINPAS)
+22301,Wild harvested seeds
+22302,Wild harvested nuts
+23,Savoury sauces and condiments
+231,Gravies and savoury sauces
+23101,Gravies (prepared)
+23102,Dry gravy mixes
+23103,"Savoury sauces, not tomato based, commercial"
+23104,"Savoury sauces, tomato based, commercial"
+23105,"Savoury sauces, not tomato based, homemade"
+23106,"Savoury sauces, tomato based, homemade"
+23107,"Savoury sauces, commercial, simmer style"
+23108,"Savoury sauces, dairy based, homemade"
+23109,Savoury pastes
+23110,Dry savoury sauces and casserole bases and dry mixes
+232,"Pickles, chutneys and relishes "
+23201,"Fruit-based pickles, chutneys and relishes"
+23202,"Vegetable-based pickles, chutneys and relishes "
+233,Salad dressings
+23301,"Mayonnaise and cream-style dressings, full fat "
+23302,"Mayonnaise and cream-style dressings, reduced or non-fat "
+23303,"Italian and French-style dressings, full fat "
+23304,"Italian and French-style dressings, reduced or non-fat "
+23305,Vinegar
+234,Stuffings
+23401,Bread-based stuffings
+235,Dips
+23501,Dairy based dips
+23502,Vegetable based dips
+23503,Legume based dips
+23504,Other dips
+24,Vegetable products and dishes
+241,Potatoes
+24101,Potatoes
+24102,Potato products
+24103,Potato mixed dishes
+242,"Cabbage, cauliflower and similar brassica vegetables "
+24201,Cabbage and similar brassica vegetables
+24202,"Broccoli, broccolini and cauliflower"
+243,Carrot and similar root vegetables
+24301,Carrots
+24302,Other root vegetables
+244,Leaf and stalk vegetables
+24401,Leaf vegetables
+24402,Stalk vegetables
+24403,"Herbs, fresh"
+24404,Seaweeds
+245,Peas and beans
+24501,Peas and edible-podded peas
+24502,Beans
+24503,Sprouts
+246,Tomato and tomato products
+24601,Tomato
+24602,Tomato products
+247,Other fruiting vegetables
+24701,Pumpkin
+24702,Squash and zucchini
+24703,Mushrooms
+24704,Sweetcorn
+24705,Other fruiting vegetables
+248,Other vegetables and vegetable combinations
+24801,Other vegetables
+24802,"Onion, leek and garlic "
+24803,Mixtures of two or more vegetables
+249,Dishes where vegetable is the major component
+24901,Vegetables and sauce
+24902,Stuffed vegetables and vegetable dishes
+24903,Fried vegetable dishes
+24904,"Salads, vegetable based"
+24905,"Salads, vegetable based, added meat, fish or eggs"
+240,"Wild harvested vegetables, and vegetable dishes (NATSINPAS)"
+24001,Wild harvested vegetables
+24002,Wild harvested vegetable dishes
+25,Legume and pulse products and dishes
+251,Mature legumes and pulses
+25101,Mature legumes and pulses
+25102,"Mature legumes and pulses, commercially sterile"
+252,Mature legume and pulse products and dishes
+25201,Legume and pulse products
+25202,Dishes where mature legumes are the major component
+26,Snack foods
+261,Potato snacks
+26101,Potato crisps
+26102,Other vegetable crisps
+262,Corn snacks
+26201,Corn chips
+26202,Popcorn
+263,Extruded or reformed snacks
+26301,Extruded snacks
+264,Other snacks
+26401,Other snacks
+27,Sugar products and dishes
+271,"Sugar, honey and syrups "
+27101,Sugar
+27102,Honey and sugar syrups
+27103,"Toppings, all flavours "
+272,"Jam and lemon spreads, chocolate spreads, sauces "
+27201,"Jams and conserves, sugar sweetened "
+27202,"Jams and conserves, reduced sugar"
+27203,"Sweet spreads, fruit flavoured "
+27204,"Sweet spreads or sauces, chocolate/coffee flavoured"
+27205,"Sauces, sweet, fruit-based"
+273,Dishes and products other than confectionery where sugar is the major component
+27301,Sugar-based desserts
+27302,"Sugar-based desserts, intense sweetened "
+27303,"Water ice confection, gelato, sorbet "
+27304,Frostings and icing
+28,Confectionery and cereal/nut/fruit/seed bars
+281,Chocolate and chocolate-based confectionery
+28101,"Chocolate (plain, unfilled varieties)"
+28102,Chocolate-based confectionery with nut fillings or additions
+28103,Chocolate-based confectionery with other fillings or additions
+28104,Carob or yoghurt and carob or yoghurt-based confectionery
+282,"Fruit, nut and seed-bars "
+28201,Fruit bar and fruit-based confectionery
+28202,Nut and seed based confectionery
+283,Muesli or cereal style bars
+28301,"Muesli and cereal style bars, no fruit"
+28302,"Muesli and cereal style bars, with fruit and/or nuts"
+28303,"Muesli and cereal style bars, added coatings or confectionery"
+28304,"Muesli bar, with fruit or fruit paste filling"
+28305,"Snack bar, other"
+284,Other confectionery
+28401,"Lollies and other confectionery, sugar sweetened"
+28402,"Lollies and other confectionery, intense sweetened"
+28403,"Chewing gum, sugar sweetened"
+28404,"Chewing gum, artificially sweetened"
+28405,Other confectionery
+29,Alcoholic beverages
+291,Beers
+29101,"Beers, > 3.5% alcohol "
+29102,"Beers, 1.15- 3.5% alcohol, reduced alcohol / light "
+292,Wines
+29201,"Wines, red (including sparkling varieties and rose styles)"
+29202,"Wines, white (including sparkling varieties)"
+29203,Fortified wines
+29204,Reduced alcohol wines
+29205,De-alcoholised and non-alcoholic wine (including sparkling varieties)
+293,Spirits
+29301,Spirits
+294,Cider and perry
+29401,Cider
+29402,Perry
+295,Other alcoholic beverages
+29501,Liqueurs
+29502,Cocktails and other mixed drinks
+29503,"Pre-mixed drinks, cola- or energy-drink based "
+29504,"Pre-mixed drinks, other "
+29505,Other alcoholic beverages
+30,Special dietary foods
+301,Formula dietary foods
+30101,Biscuit and bar meal replacement
+30102,Meal replacement and similar prepared beverages
+30103,Meal replacement and similar dry powders
+30104,Sport and protein prepared beverages
+30105,"Sport and protein, dry powders"
+30106,Supplementary and medical foods prepared beverages
+30107,Supplementary and medical foods dry powders
+31,Miscellaneous
+311,"Yeast, and yeast vegetable or meat extracts "
+31101,Yeast
+31102,Yeast extracts
+31103,Vegetable and meat extracts
+312,Intense sweetening agents
+31201,Intense sweeteners
+313,"Herbs, spices, seasonings and stock cubes "
+31301,Salt
+31302,Herbs(dried)  and spices
+31303,Stock cubes and seasonings
+31304,"Stock, prepared"
+314,Essences
+31401,Essences
+315,Chemical raising agents and cooking ingredients
+31501,Chemical raising agents and cooking ingredients
+31502,Gelatine
+31503,Other additives
+32,Infant formulae and foods
+321,Infant formulae and human breast milk
+32101,"Infant formula, prepared"
+32102,Human breast milk
+32103,"Toddler formula, prepared"
+322,Infant cereal products
+32201,Infant cereals
+32202,Infant rusks
+32203,Infant pasta and rice dishes
+323,Infant foods
+32301,Infant fruit and fruit-based desserts
+32302,"Infant savoury dishes, commercial"
+32303,Infant custards or yoghurts
+324,Infant drinks
+32401,Infant fruit juices
+33,Dietary supplements
+331,Vitamin and/or mineral supplements
+33101,Multivitamin and/or multimineral
+33102,"Multivitamin and/or multimineral, with herbal extracts"
+33103,Multivitamin and/or multimineral containing caffeine
+33104,Calcium supplements
+33105,Magnesium supplements
+33106,Zinc supplements
+33107,Other single mineral supplements
+33108,Vitamin C supplements
+33109,Vitamin E supplements
+33110,Folic acid supplements
+33111,Vitamin D supplements
+33112,Other single vitamin supplements
+332,Oil supplements
+33201,Fish oil supplements  
+33202,Fish oil supplements with added nutrients
+33203,Fish liver oil supplements
+33204,Evening primrose oil supplements
+33205,Other lipid supplements
+333,Herbal and homoeopathic supplements
+33301,Herbal supplements
+33302,Herbal supplements containing caffeine sources
+33303,Homoeopathic supplements
+334,Other nutritive supplements
+33401,Fibre supplements
+33402,Protein or amino acid supplements
+335,Other non-nutritive supplements
+33501,Probiotic supplements
+33502,Propolis or other bee product supplements
+33503,Glucosamine and/or chondroitin based supplements
+33504,Coenzyme Q10 supplements
+33505,Other supplements
+336,Other medicines
+33612,Over the counter or prescription medicines
+34,"Reptiles, amphibia and insects"
+341,Reptiles
+34101,Reptiles
+342,Insects
+34201,Insects
+343,Amphibia
+34301,Amphibia
